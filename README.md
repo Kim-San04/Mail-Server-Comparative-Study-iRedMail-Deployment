@@ -70,7 +70,7 @@ Le succès d'un serveur de messagerie repose sur une configuration DNS méticule
 ---
 
 ## 📂 Ressources du Projet
-*   [Rapport Technique Complet (PDF)](./doc/PROJET_SERVICE_RESEAUX_THEME_6.pdf)
+*   [Rapport Technique Complet (PDF)](doc/PROJET_SERVICE_RESEAUX(THEME_6).pdf)
 
 ---
 
