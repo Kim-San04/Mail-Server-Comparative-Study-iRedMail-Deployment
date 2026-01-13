@@ -69,10 +69,6 @@ Le succès d'un serveur de messagerie repose sur une configuration DNS méticule
 
 ---
 
-## 📂 Ressources du Projet
-*   [Rapport Technique Complet (PDF)](doc/PROJET_SERVICE_RESEAUX(THEME_6).pdf)
-
----
 
 **Analogie pour conclure :**
 Déployer un serveur de messagerie comme iRedMail, c'est comme construire son propre **centre de tri postal privé**. Au lieu de confier votre courrier à un prestataire externe, vous gérez vos propres camions (protocoles), vos propres verrous (sécurité) et vos propres boîtes aux lettres, tout en vous assurant que votre adresse est officiellement répertoriée dans l'annuaire mondial (DNS) pour que le courrier puisse circuler.
